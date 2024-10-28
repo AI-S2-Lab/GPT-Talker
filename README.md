@@ -8,7 +8,7 @@ This is an implementation of the following paper.
 [Rui Liu *](https://ttslr.github.io/), Yifan Hu, [Yi Ren](https://rayeren.github.io/), Xiang Yin, [Haizhou Li](https://colips.org/~eleliha/).
 
 
-##Note
+## Note
 
 Please check [walker-hyf/GPT-Talker](https://github.com/walker-hyf/GPT-Talker) for more details. :)
 
